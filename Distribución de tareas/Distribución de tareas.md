@@ -1,8 +1,8 @@
 ●	Rafael Pérez Arias:
-  Elaboración del modelo de negocio.
-  Soporte en la creación de los frontales para el módulo general, financiero, asegurador y cliente.
-  Soporte en la creación de los frontales adicionales (si la planificación lo permite).
-  Desarrollo de la memoria del proyecto.
+	Elaboración del modelo de negocio.
+	Soporte en la creación de los frontales para el módulo general, financiero, asegurador y cliente.
+	Soporte en la creación de los frontales adicionales (si la planificación lo permite).
+	Desarrollo de la memoria del proyecto.
   Elaboración de la presentación del TFM.
   Soporte en las pruebas unitarias de funcionalidad de los frontales.
 
